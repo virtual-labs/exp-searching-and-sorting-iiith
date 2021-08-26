@@ -1,1 +1,1 @@
-To learn to solve problems related to Searching and Sorting using Computer Programming. 
+- To learn to solve problems related to Searching and Sorting using Computer Programming. 
