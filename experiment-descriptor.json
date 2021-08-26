@@ -26,7 +26,7 @@
       "label": "Pretest",
       "unit-type": "task",
       "content-type": "assesment"
-    },w
+    },
     {
       "target": "procedure.html",
       "source": "procedure.md",
@@ -50,4 +50,5 @@
     }
   ]
 }
+
 
