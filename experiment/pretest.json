@@ -1,47 +1,124 @@
-[
-{"question":"1. The execution of a loop typically starts with:",
-"answers":{
-            "a":"initialization statements",
-            "b":"Loop body",
-            "c":"test condition",
-            "d":"update statements"
-          },
-"correctAnswer":"a"},
-
-{"question":"2. The break statement is used to exit from:",
-"answers":{
-            "a":"an if statement",
-            "b":"a for loop",
-            "c":"a program",
-            "d":"the main( ) function"
-          },
-"correctAnswer":"b"}, 
-
-{"question":"3. A do-while loop is useful when we want that the statements within the loop must be executed",
-"answers":{
-            "a":"only once",
-            "b":"At Least Once",
-            "c":"More than once",
-            "d":"None of the above"
-          },
-"correctAnswer":"b"},
-
-{"question":"4. In what sequence the initialization, testing and execution of body is done in a do-while loop ",
-"answers":{
-            "a":"Initialization, execution of body, testing",
-            "b":"Execution of body, initialization, testing",
-            "c":"Initialization, testing, execution of body",
-            "d":"None of the above"
-          },
-"correctAnswer":"a"},
-
-{"question":"5. Which looping process checks the test condition at the end of the loop?",
-"answers":{
-            "a":"for",
-            "b":"while",
-            "c":"do-while",
-            "d":"No looping peocess check condition at the end"
-          },
-"correctAnswer":"c"}
-
-]
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following is the most basic searching algorithm?",
+      "answers": {
+        "a": "Binary Search",
+        "b": "Linear Search",
+        "c": "Jump Search",
+        "d": "Interpolation Search"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. Binary search is more efficient but requires sorted data.",
+        "b": "Correct. Linear search checks each element one by one.",
+        "c": "Incorrect. Jump search is less basic than linear search.",
+        "d": "Incorrect. Interpolation search is more advanced."
+      },
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which sorting algorithm repeatedly swaps adjacent elements if they are in the wrong order?",
+      "answers": {
+        "a": "Bubble Sort",
+        "b": "Selection Sort",
+        "c": "Insertion Sort",
+        "d": "Merge Sort"
+      },
+      "correctAnswer": "a",
+      "explanations": {
+        "a": "Correct. Bubble sort swaps adjacent elements.",
+        "b": "Incorrect. Selection sort selects the minimum element.",
+        "c": "Incorrect. Insertion sort builds the sorted list one element at a time.",
+        "d": "Incorrect. Merge sort divides and merges arrays."
+      },
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What is the time complexity of binary search in a sorted array?",
+      "answers": {
+        "a": "O(n)",
+        "b": "O(n^2)",
+        "c": "O(log n)",
+        "d": "O(1)"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. O(n) is for linear search.",
+        "b": "Incorrect. O(n^2) is for some sorting algorithms.",
+        "c": "Correct. Binary search divides the array in half each time.",
+        "d": "Incorrect. O(1) is for constant time operations."
+      },
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which of the following is NOT a comparison-based sorting algorithm?",
+      "answers": {
+        "a": "Bubble Sort",
+        "b": "Counting Sort",
+        "c": "Selection Sort",
+        "d": "Quick Sort"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. Bubble sort compares elements.",
+        "b": "Correct. Counting sort uses counting, not comparisons.",
+        "c": "Incorrect. Selection sort compares elements.",
+        "d": "Incorrect. Quick sort compares elements."
+      },
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. Which searching algorithm is best suited for finding an element in a sorted array?",
+      "answers": {
+        "a": "Linear Search",
+        "b": "Binary Search",
+        "c": "Jump Search",
+        "d": "Exponential Search"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. Linear search is less efficient for sorted arrays.",
+        "b": "Correct. Binary search is optimal for sorted arrays.",
+        "c": "Incorrect. Jump search is less common.",
+        "d": "Incorrect. Exponential search is for unbounded arrays."
+      },
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "6. Which sorting algorithm has the best average-case time complexity?",
+      "answers": {
+        "a": "Bubble Sort",
+        "b": "Selection Sort",
+        "c": "Merge Sort",
+        "d": "Insertion Sort"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. Bubble sort is slower.",
+        "b": "Incorrect. Selection sort is slower.",
+        "c": "Correct. Merge sort is O(n log n) on average.",
+        "d": "Incorrect. Insertion sort is slower for large data."
+      },
+      "difficulty": "advanced"
+    },
+    {
+      "question": "7. Which of the following statements about searching and sorting is TRUE?",
+      "answers": {
+        "a": "Binary search works on unsorted data.",
+        "b": "Bubble sort is faster than merge sort for large data.",
+        "c": "Sorting can improve searching efficiency.",
+        "d": "Linear search is always faster than binary search."
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. Binary search requires sorted data.",
+        "b": "Incorrect. Merge sort is faster for large data.",
+        "c": "Correct. Sorting allows faster searching algorithms.",
+        "d": "Incorrect. Binary search is faster for sorted data."
+      },
+      "difficulty": "advanced"
+    }
+  ]
+}

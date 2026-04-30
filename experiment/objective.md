@@ -1,1 +1,4 @@
-- To learn to solve problems related to Searching and Sorting using Computer Programming. 
+- To understand and implement basic and advanced searching and sorting algorithms.
+- To analyze the efficiency and use-cases of different searching and sorting techniques.
+- To develop problem-solving skills by applying searching and sorting in computational tasks.
+- To connect algorithmic thinking with practical programming for handling and organizing data.
