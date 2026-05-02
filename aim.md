@@ -1,0 +1,1 @@
+To explore and understand the fundamental concepts of searching and sorting in computer science through problem solving, algorithm design, and programming, emphasizing their importance in efficient data processing and real-world applications.

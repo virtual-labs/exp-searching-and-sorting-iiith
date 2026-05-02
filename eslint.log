@@ -1,0 +1,29 @@
+
+/home/runner/work/exp-searching-and-sorting-iiith/exp-searching-and-sorting-iiith/experiment/simulation/js/main.js
+  120:35   warning  Unnecessary escape character: \"  no-useless-escape
+  120:41   warning  Unnecessary escape character: \"  no-useless-escape
+  146:28   warning  Unnecessary escape character: \"  no-useless-escape
+  146:41   warning  Unnecessary escape character: \"  no-useless-escape
+  146:55   warning  Unnecessary escape character: \"  no-useless-escape
+  146:64   warning  Unnecessary escape character: \"  no-useless-escape
+  146:73   warning  Unnecessary escape character: \"  no-useless-escape
+  146:100  warning  Unnecessary escape character: \"  no-useless-escape
+  146:115  warning  Unnecessary escape character: \"  no-useless-escape
+  146:137  warning  Unnecessary escape character: \"  no-useless-escape
+  148:38   warning  Unnecessary escape character: \"  no-useless-escape
+  148:53   warning  Unnecessary escape character: \"  no-useless-escape
+  165:42   warning  Unnecessary escape character: \"  no-useless-escape
+  165:45   warning  Unnecessary escape character: \"  no-useless-escape
+  167:44   warning  Unnecessary escape character: \"  no-useless-escape
+  167:50   warning  Unnecessary escape character: \"  no-useless-escape
+  179:36   warning  Unnecessary escape character: \"  no-useless-escape
+  179:42   warning  Unnecessary escape character: \"  no-useless-escape
+  192:31   warning  Unnecessary escape character: \"  no-useless-escape
+  192:49   warning  Unnecessary escape character: \"  no-useless-escape
+  194:31   warning  Unnecessary escape character: \"  no-useless-escape
+  194:51   warning  Unnecessary escape character: \"  no-useless-escape
+  204:17   warning  Unnecessary escape character: \"  no-useless-escape
+  204:39   warning  Unnecessary escape character: \"  no-useless-escape
+
+✖ 24 problems (0 errors, 24 warnings)
+
